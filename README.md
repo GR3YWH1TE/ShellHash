@@ -6,7 +6,7 @@ A simple software made to perform the hash decoding sha1 and md5, using only num
 
 
 
-screenshots:
+
 ![](screenshot-menu.png)
 
 ![](screenshot-hash.png)
