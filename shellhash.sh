@@ -34,7 +34,7 @@ echo "       /_/ /_/\__,_/____/_/ /_/ "
 echo 
 echo " [1] sha1      |      [2] md5 "
 echo 
-echo "| choice method |"
+echo "| Choose the decryption method |"
 read cryptography
 
     if [[ "$cryptography" = "1" ]];then
